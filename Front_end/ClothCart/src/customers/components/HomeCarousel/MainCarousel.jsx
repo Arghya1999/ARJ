@@ -1,6 +1,7 @@
 import AliceCarousel from 'react-alice-carousel';
 import 'react-alice-carousel/lib/alice-carousel.css'; // Import the CSS file for styling
-import { MainCarouselData } from './MainCarouselData';
+import { MainCarouselData } from '../../data/MainCarouselData';
+
 
 
 const MainCarousel = () => {
